@@ -1,0 +1,15 @@
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.ConfigStrategy.File.dll
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.ConfigStrategy.File.pdb
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.ConfigStrategy.File\obj\Release\BrnMall.ConfigStrategy.File.csprojResolveAssemblyReference.cache
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.ConfigStrategy.File\obj\Release\BrnMall.ConfigStrategy.File.dll
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.ConfigStrategy.File\obj\Release\BrnMall.ConfigStrategy.File.pdb
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.ConfigStrategy.File.dll
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.ConfigStrategy.File.pdb
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.ConfigStrategy.File\obj\Release\BrnMall.ConfigStrategy.File.csprojResolveAssemblyReference.cache
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.ConfigStrategy.File\obj\Release\BrnMall.ConfigStrategy.File.dll
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.ConfigStrategy.File\obj\Release\BrnMall.ConfigStrategy.File.pdb
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.ConfigStrategy.File.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.ConfigStrategy.File.pdb
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.ConfigStrategy.File\obj\Release\BrnMall.ConfigStrategy.File.csprojResolveAssemblyReference.cache
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.ConfigStrategy.File\obj\Release\BrnMall.ConfigStrategy.File.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.ConfigStrategy.File\obj\Release\BrnMall.ConfigStrategy.File.pdb

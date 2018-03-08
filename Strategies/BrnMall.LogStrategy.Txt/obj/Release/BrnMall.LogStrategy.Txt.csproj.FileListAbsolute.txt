@@ -1,0 +1,14 @@
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.LogStrategy.Txt.dll
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.LogStrategy.Txt.pdb
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.LogStrategy.Txt\obj\Release\BrnMall.LogStrategy.Txt.dll
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.LogStrategy.Txt\obj\Release\BrnMall.LogStrategy.Txt.pdb
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.LogStrategy.Txt.dll
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.LogStrategy.Txt.pdb
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.LogStrategy.Txt\obj\Release\BrnMall.LogStrategy.Txt.dll
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.LogStrategy.Txt\obj\Release\BrnMall.LogStrategy.Txt.pdb
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.LogStrategy.Txt\obj\Release\BrnMall.LogStrategy.Txt.csprojResolveAssemblyReference.cache
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.LogStrategy.Txt.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.LogStrategy.Txt.pdb
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.LogStrategy.Txt\obj\Release\BrnMall.LogStrategy.Txt.csprojResolveAssemblyReference.cache
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.LogStrategy.Txt\obj\Release\BrnMall.LogStrategy.Txt.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.LogStrategy.Txt\obj\Release\BrnMall.LogStrategy.Txt.pdb

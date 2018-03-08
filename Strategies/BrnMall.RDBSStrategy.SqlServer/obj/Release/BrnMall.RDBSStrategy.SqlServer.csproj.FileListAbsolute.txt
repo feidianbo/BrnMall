@@ -1,0 +1,15 @@
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.RDBSStrategy.SqlServer.dll
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.RDBSStrategy.SqlServer.pdb
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.RDBSStrategy.SqlServer\obj\Release\BrnMall.RDBSStrategy.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.RDBSStrategy.SqlServer\obj\Release\BrnMall.RDBSStrategy.SqlServer.dll
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.RDBSStrategy.SqlServer\obj\Release\BrnMall.RDBSStrategy.SqlServer.pdb
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.RDBSStrategy.SqlServer.dll
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.RDBSStrategy.SqlServer.pdb
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.RDBSStrategy.SqlServer\obj\Release\BrnMall.RDBSStrategy.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.RDBSStrategy.SqlServer\obj\Release\BrnMall.RDBSStrategy.SqlServer.dll
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.RDBSStrategy.SqlServer\obj\Release\BrnMall.RDBSStrategy.SqlServer.pdb
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.RDBSStrategy.SqlServer.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.RDBSStrategy.SqlServer.pdb
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.RDBSStrategy.SqlServer\obj\Release\BrnMall.RDBSStrategy.SqlServer.csprojResolveAssemblyReference.cache
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.RDBSStrategy.SqlServer\obj\Release\BrnMall.RDBSStrategy.SqlServer.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.RDBSStrategy.SqlServer\obj\Release\BrnMall.RDBSStrategy.SqlServer.pdb

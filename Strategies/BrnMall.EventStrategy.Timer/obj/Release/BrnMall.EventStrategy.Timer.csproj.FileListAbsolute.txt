@@ -1,0 +1,15 @@
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.EventStrategy.Timer.dll
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.EventStrategy.Timer.pdb
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.EventStrategy.Timer\obj\Release\BrnMall.EventStrategy.Timer.csprojResolveAssemblyReference.cache
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.EventStrategy.Timer\obj\Release\BrnMall.EventStrategy.Timer.dll
+C:\Users\zm\Desktop\工作\BrnMall\Strategies\BrnMall.EventStrategy.Timer\obj\Release\BrnMall.EventStrategy.Timer.pdb
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.EventStrategy.Timer.dll
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.EventStrategy.Timer.pdb
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.EventStrategy.Timer\obj\Release\BrnMall.EventStrategy.Timer.csprojResolveAssemblyReference.cache
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.EventStrategy.Timer\obj\Release\BrnMall.EventStrategy.Timer.dll
+C:\Users\zm\Desktop\BrnMall\Strategies\BrnMall.EventStrategy.Timer\obj\Release\BrnMall.EventStrategy.Timer.pdb
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.EventStrategy.Timer.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.EventStrategy.Timer.pdb
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.EventStrategy.Timer\obj\Release\BrnMall.EventStrategy.Timer.csprojResolveAssemblyReference.cache
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.EventStrategy.Timer\obj\Release\BrnMall.EventStrategy.Timer.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Strategies\BrnMall.EventStrategy.Timer\obj\Release\BrnMall.EventStrategy.Timer.pdb

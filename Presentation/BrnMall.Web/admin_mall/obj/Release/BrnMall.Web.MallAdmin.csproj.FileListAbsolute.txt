@@ -1,0 +1,14 @@
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.dll
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.pdb
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Release\BrnMall.Web.MallAdmin.dll
+C:\Users\zm\Desktop\工作\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Release\BrnMall.Web.MallAdmin.pdb
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.dll
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.pdb
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Release\BrnMall.Web.MallAdmin.csprojResolveAssemblyReference.cache
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Release\BrnMall.Web.MallAdmin.dll
+C:\Users\zm\Desktop\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Release\BrnMall.Web.MallAdmin.pdb
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.pdb
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Release\BrnMall.Web.MallAdmin.csprojResolveAssemblyReference.cache
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Release\BrnMall.Web.MallAdmin.dll
+G:\示例项目\BrnMall3.0beta\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Release\BrnMall.Web.MallAdmin.pdb
